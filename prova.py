@@ -1,4 +1,4 @@
-from turtle import *
+
 print('Questo è un file python')
 
 a=2
