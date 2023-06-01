@@ -1,4 +1,4 @@
-
+from turtle import *
 print('Questo è un file python')
 
 a=2
@@ -9,3 +9,11 @@ print('b =',b)
 print('a+b =',a+b)
 
 print('a*b =',a*b)
+# prezzo cocco
+print('cocco bello a:', b*c)
+
+# %%
+print('hello world')
+nome = 'Giona'
+print(nome)
+#
